@@ -1,0 +1,27 @@
+{
+  "name": "vscode",
+  "version": "1.0.0",
+  "description": "This is a school project",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BennyS88/Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BennyS88/Test/issues"
+  },
+  "homepage": "https://github.com/BennyS88/Test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "express-openid-connect": "^2.6.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}

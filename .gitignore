@@ -1,0 +1,4 @@
+node_modules
+.env
+bookstore_data.sql
+tuckdb.js
